@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^7.1.0",
+    "inquirer": "^13.2.2",
     "lowdb": "^1.0.0"
   },
   "devDependencies": {
